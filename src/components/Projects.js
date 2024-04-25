@@ -7,7 +7,7 @@ function Projects() {
         {
             title: "Bolt Preload Analysis",
             language: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-            description: "Python application for generating a prediction for when a particular bolt will require maintainence due to preload loss. Driven by data collected during physical tests requested by client. Part of the multi-disciplinary Boeing Scholars program and WSU Business Plan Competition.",
+            description: "Python application for generating a prediction for when a particular bolt will require maintenance due to preload loss. Driven by data collected during physical tests requested by client. Part of the multi-disciplinary Boeing Scholars program and WSU Business Plan Competition.",
             url: "https://github.com/dragoni7/Bolt-Preload-Analysis"
         },
         {
