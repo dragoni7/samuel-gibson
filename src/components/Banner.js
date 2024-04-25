@@ -1,5 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import resume from '../assets/files/SamuelGibsonResume.pdf'
 
 function Banner() {
 
@@ -25,6 +26,8 @@ function Banner() {
                             <br />
                             In my free time, I enjoy modding video games, game development, learning new tech stacks, and keeping up with the latest technologies.
                             </p>
+
+                            <a href={resume} target="_blank" type="application/pdf">Resume</a>
                             
                         </div>
                     </Col>
