@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/samuel-gibson/static/css/main.3c81982d.css",
-    "main.js": "/samuel-gibson/static/js/main.b2c42c53.js",
+    "main.js": "/samuel-gibson/static/js/main.06f7b30f.js",
     "static/js/453.64cb683a.chunk.js": "/samuel-gibson/static/js/453.64cb683a.chunk.js",
     "static/media/Inter.ttf": "/samuel-gibson/static/media/Inter.853e01975d2783d9fa29.ttf",
+    "static/media/SamuelGibsonResume.pdf": "/samuel-gibson/static/media/SamuelGibsonResume.5766984c423e3ee6fd38.pdf",
     "static/media/revicons.eot": "/samuel-gibson/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/samuel-gibson/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/samuel-gibson/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/samuel-gibson/index.html",
     "main.3c81982d.css.map": "/samuel-gibson/static/css/main.3c81982d.css.map",
-    "main.b2c42c53.js.map": "/samuel-gibson/static/js/main.b2c42c53.js.map",
+    "main.06f7b30f.js.map": "/samuel-gibson/static/js/main.06f7b30f.js.map",
     "453.64cb683a.chunk.js.map": "/samuel-gibson/static/js/453.64cb683a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c81982d.css",
-    "static/js/main.b2c42c53.js"
+    "static/js/main.06f7b30f.js"
   ]
 }
