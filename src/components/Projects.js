@@ -74,17 +74,17 @@ function Projects() {
                     <Tab.Container id="projects-tabs" defaultActiveKey="first">
                         <Nav variant="pills" defaultActiveKey="/home">
                             <Nav.Item>
-                                <Nav.Link eventKey="first">Personal Projects</Nav.Link>
+                                <Nav.Link eventKey="first">University Projects</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
-                                <Nav.Link eventKey="second">University Projects</Nav.Link>
+                                <Nav.Link eventKey="second">Personal Projects</Nav.Link>
                             </Nav.Item>
                         </Nav>
                         <Tab.Content>
                             <Tab.Pane eventKey="first">
                                 <Row>
                                     {
-                                        personalProjects.map((project, index) => {
+                                        uniProjects.map((project, index) => {
                                             return (
                                                 <ProjectCard
                                                 key={index}
@@ -98,7 +98,7 @@ function Projects() {
                             <Tab.Pane eventKey="second">
                                 <Row>
                                     {
-                                        uniProjects.map((project, index) => {
+                                        personalProjects.map((project, index) => {
                                             return (
                                                 <ProjectCard
                                                 key={index}
